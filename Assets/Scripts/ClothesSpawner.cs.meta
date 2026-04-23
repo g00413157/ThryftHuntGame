@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 47a8c11e6e6ce534c9ca6bdc1f151f6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - clothingPrefab: {fileID: 610314410054745100, guid: 937eb4152628de943a57a05907d94270, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
